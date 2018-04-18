@@ -1,4 +1,4 @@
-import Promise from 'bluebird';
+zimport Promise from 'bluebird';
 import mongoose from 'mongoose';
 import httpStatus from 'http-status';
 import APIError from '../helpers/APIError';
